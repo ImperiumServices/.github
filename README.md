@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imperium-logo-words.png" alt="Logo" width="200">
+  <img src="imperium-logo-words-transparent.png" alt="Logo" width="550">
 </p>
 
 # Imperium Services 🚀
