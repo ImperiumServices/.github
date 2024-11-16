@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imperium-logo-words-transparent.png" alt="Logo" width="550">
+  <img src="/imperium-logo-words-transparent.png" alt="Logo" width="550">
 </p>
 
 <h1 align="center">Imperium Services 🚀</h1>
