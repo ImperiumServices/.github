@@ -22,4 +22,11 @@
 
 We develop projects both related to cybersecurity and some other miscellaneous software including:
 - VPNs and Proxies.
-- Miscellaneous and possibly useful content. 
+
+---
+
+## 🌳 Our Branches
+
+We do more than just cybersecurity, and because of that, we divide our goals into different branch companies. Including:
+
+- 🎮 LudusGames
