@@ -2,7 +2,7 @@
   <img src="imperium-logo-words-transparent.png" alt="Logo" width="550">
 </p>
 
-# Imperium Services 🚀
+<h1 align="center">Imperium Services 🚀</h1>
 <p align="center">
   We (Imperium Services) are dedicated to cybersecurity, general web and software development.
 </p>
