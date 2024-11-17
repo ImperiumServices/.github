@@ -30,3 +30,5 @@ We develop projects both related to cybersecurity and some other miscellaneous s
 We do more than just cybersecurity, and because of that, we divide our goals into different branch companies. Including:
 
 - 🎮 LudusGames
+- 🔓 Lazarus Education
+- 🤷‍♂️ TLabs
